@@ -9,3 +9,5 @@ This project is designed to provide an intuitive and efficient system for analys
 ~Secure password management
 ~Resume upload functionality
 ~Gives a comprehensive insight into your resume and tells what skills are you missing for your desired job description
+
+🌟To execute this code in the terminal write "streamlit run app2.py" and press enter
