@@ -11,3 +11,5 @@ This project is designed to provide an intuitive and efficient system for analys
 ~Gives a comprehensive insight into your resume and tells what skills are you missing for your desired job description
 
 🌟To execute this code in the terminal write "streamlit run app2.py" and press enter
+
+(app2.py is the first installment of code - final code is main.py)
